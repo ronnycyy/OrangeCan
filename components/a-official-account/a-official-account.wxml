@@ -1,0 +1,6 @@
+<view wx:if="{{show}}" class="box">
+	<view class="tool">
+		<text class="close" bind:tap="onClose">关闭</text>
+	</view>
+	<official-account bindload="onLoaded" binderror="onError"></official-account>
+</view>

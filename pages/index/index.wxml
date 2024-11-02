@@ -1,0 +1,6 @@
+<view>
+  <text style="font-size: 24px; font-weight: 700; margin-left: 16px; line-height: 48px;">橘子罐头</text>
+  <view style="padding-top: 16px; box-sizing: border-box;">
+    <button bind:tap="goPage">公众号</button>
+  </view>
+</view>

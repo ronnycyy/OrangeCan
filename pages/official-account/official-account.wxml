@@ -1,0 +1,7 @@
+<view style="background-color: rgb(190, 67, 238); height: 1000px;">
+  <view
+    style="text-align: center; line-height: 64px; font-size: 24px; color: white; font-weight: bolder;"
+  >公众号关注组件</view>
+</view>
+
+<a-official-account></a-official-account>

@@ -1,0 +1,25 @@
+.box {
+	position: fixed;
+	bottom: 48px;
+	width: calc(100vw - 32px);
+	height: 156px;
+	margin: 0 16px; 
+	padding: 12px; 
+	border-radius: 4px;
+	box-sizing: border-box; 
+	background-color: rgb(76,175,80);
+	box-shadow: 0 5px 10px rgba(0,0,0,0.5);
+}
+
+
+
+.tool {
+	height: 48px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: flex-end;
+}
+
+.close {
+	color: rgb(255,255,255);
+}
